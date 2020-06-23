@@ -1,0 +1,9 @@
+{
+    "name": "Le Minh Quan",
+    "description": "Simple MVC model",
+    "autoload": {
+        "psr-4": {
+            "AHT\\": "app/"
+        }
+    }
+}
